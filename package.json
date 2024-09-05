@@ -1,0 +1,14 @@
+{
+  "name": "@codingcatdev/monorepo",
+  "version": "2.0.0",
+  "description": "Repo for all things codingcat.dev",
+  "author": "Alex Patterson",
+  "devDependencies": {
+    "turbo": "^1.10.14"
+  },
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "serve": "turbo run serve"
+  }
+}
